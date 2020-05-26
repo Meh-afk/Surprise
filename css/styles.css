@@ -1,0 +1,79 @@
+body{ margin:0;
+  color: #424874;
+text-align: center;
+font-family: 'Merriweather', serif;}
+h1{
+  margin-top: 0;
+  font-family: 'Sacramento', cursive;
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+}
+.athrav{
+  height:500px;
+  width:750px;
+  border: thick double #424874;
+}
+.pankha{
+  height:500px;
+  width:500px;
+  border: thick double #424874;
+}
+.vaish{
+  height:500px;
+  width:500px;
+  border: thick double #424874;
+}
+.sarthak{
+  height:500px;
+  width:500px;
+  border: thick double #424874;
+}
+.pritha{
+  height:500px;
+  width:500px;
+  border: thick double #424874;
+}
+.kashish{
+  height:600px;
+  width:400px;
+  border: thick double #424874;
+}
+.nammu{
+  height:700px;
+  width:400px;
+  border: thick double #424874;
+}
+.annesha{
+  height:500px;
+  width:400px;
+  border: thick double #424874;
+}
+.darshana{
+  height:700px;
+  width:400px;
+  border: thick double #424874;
+}
+.middle{
+  background-color: #dcd6f7;
+  padding-top:100px;
+}
+.top{ background-color: #f4eeff;
+position:relative;
+padding-top:100px;}
+.bottom-container{
+  background-color: #f4eeff;
+}
+.top-popper{
+  position:absolute;
+  right:700px;
+  top:50px;
+}
+.bottom-popper{
+  position:absolute;
+  left:850px;
+  bottom:200px;
+}
